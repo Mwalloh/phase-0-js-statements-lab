@@ -11,7 +11,7 @@ if (temperature > 80) {
 if (timeOfDay === "evening") {
     console.log("Lights on");
 } else if (timeOfDay === "night") {
-    console.log("Light on");
+    console.log("Lights on");
 } else {
     console.log("Lights off");
 }
